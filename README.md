@@ -12,7 +12,7 @@
   <img align="center" alt="Rafa-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Rafa-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <img align="center" alt="Rafa-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
-  <img align="right" alt="Yuri-Avatar" height="150" style="border-radius:50px;" src="https://i.picasion.com/pic92/50efdbccc4e121c0be56cacd94eb7f33.gif">
+  <img align="right" alt="Yuri-pic" height="150" style="border-radius:50px;" src="https://i.picasion.com/pic92/50efdbccc4e121c0be56cacd94eb7f33.gif">
 </div>
   
   ##
