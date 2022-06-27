@@ -1,8 +1,8 @@
 ## Olá eu sou o Yuri! Sou programador de Back-End e Front-End!
 <div align="center">
   <a href="https://github.com/yuriedu">
-  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=yuriedu&show_icons=true&theme=cobalt&include_all_commits=true&count_private=true"/>
-  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yuriedu&layout=compact&langs_count=7&theme=cobalt"/>
+  <img height="170em" src="https://github-readme-stats.vercel.app/api?username=yuriedu&show_icons=true&theme=cobalt&include_all_commits=true&count_private=true"/>
+  <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yuriedu&layout=compact&langs_count=7&theme=cobalt"/>
 </div>
 <div style="display: inline_block"><br>
   <img align="center" alt="Yuri-Node" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg">
@@ -11,7 +11,7 @@
   <img align="center" alt="Yuri-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Yuri-DiscordJs" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/discordjs/discordjs-plain.svg">
   <img align="center" alt="Yuri-Lua" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/lua/lua-original-wordmark.svg">
-  <img align="right" alt="Yuri-pic" height="150" style="border-radius: 100px;" src="https://media.discordapp.net/attachments/733482744105140354/990796865542955008/avatar.png?width=676&height=676">
+  <img align="right" alt="Yuri-pic" height="130" style="border-radius: 100px;" src="https://media.discordapp.net/attachments/733482744105140354/990796865542955008/avatar.png?width=676&height=676">
 </div>
   
   ##
