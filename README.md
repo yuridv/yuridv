@@ -10,7 +10,7 @@
   <img align="center" alt="Yuri-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Yuri-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Yuri-Lua" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/lua/lua-original-wordmark.svg">
-  <img align="right" alt="Yuri-pic" height="150" style="border-radius:50px;" src="https://media.discordapp.net/attachments/733482744105140354/990794350378246224/1-fundo.png?width=676&height=676">
+  <img align="right" alt="Yuri-pic" height="150" style="border-radius: 100px;" src="https://media.discordapp.net/attachments/733482744105140354/990794350378246224/1-fundo.png?width=676&height=676">
 </div>
   
   ##
