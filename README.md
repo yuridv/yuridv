@@ -1,4 +1,4 @@
-## Olá eu sou o Yuri, desenvolvedor de Back-End e Front-End!
+## Olá, eu sou o Yuri, desenvolvedor WEB Full-Stack!
 <div align="center">
   <a href="https://github.com/yuriedu">
   <img height="160em" src="https://github-readme-stats.vercel.app/api?username=yuriedu&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
