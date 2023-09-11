@@ -6,7 +6,7 @@
 </div>
 <br/>
 <div style="width: 100%; display: flex; justify-content: center; align-items: center">
-  <img width="360em" src="https://github-readme-streak-stats.herokuapp.com/?user=yuridv&theme=midnight-purple&hide_border=true">
+  <img width="500em" src="https://github-readme-streak-stats.herokuapp.com/?user=yuridv&theme=midnight-purple&hide_border=true">
 </div>
 
 ## 📸 Redes Sociais:
