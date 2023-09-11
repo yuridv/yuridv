@@ -1,12 +1,12 @@
 ## Olá, eu sou o Yuri, Desenvolvedor Web • FullStack!
 
 <div>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=yuridv&theme=midnight-purple&hide_border=true&include_all_commits=true&count_private=true">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yuridv&theme=midnight-purple&hide_border=true&include_all_commits=true&count_private=true&layout=compact">
+  <img height="130em" src="https://github-readme-stats.vercel.app/api?username=yuridv&theme=midnight-purple&hide_border=true&include_all_commits=true&count_private=true">
+  <img height="130em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yuridv&theme=midnight-purple&hide_border=true&include_all_commits=true&count_private=true&layout=compact">
 </div>
 <br/>
-<div style="width: 100%; display: flex; justify-content: center; align-items: center">
-  <img width="500em" src="https://github-readme-streak-stats.herokuapp.com/?user=yuridv&theme=midnight-purple&hide_border=true">
+<div>
+  <img width="400em" src="https://github-readme-streak-stats.herokuapp.com/?user=yuridv&theme=midnight-purple&hide_border=true">
 </div>
 
 ## 📸 Redes Sociais:
