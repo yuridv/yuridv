@@ -4,10 +4,9 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=yuridv&theme=midnight-purple&hide_border=true&include_all_commits=true&count_private=true">
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yuridv&theme=midnight-purple&hide_border=true&include_all_commits=true&count_private=true&layout=compact">
 </div>
-
 <br/>
-<div style="width: 100%; display: flex; flex-direction: row; justify-content: center; align-items: center">
-  ![](https://github-readme-streak-stats.herokuapp.com/?user=yuridv&theme=midnight-purple&hide_border=true)
+<div>
+  <img align="center" height="120em" src="https://github-readme-streak-stats.herokuapp.com/?user=yuridv&theme=midnight-purple&hide_border=true">
 </div>
 
 ## 📸 Redes Sociais:
