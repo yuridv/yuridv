@@ -2,7 +2,7 @@
 
 ## 🎈 GitHub Status:
 ![](https://github-readme-stats.vercel.app/api?username=yuridv&theme=midnight-purple&hide_border=true&include_all_commits=true&count_private=true)
-![](https://github-readme-streak-stats.herokuapp.com/?user=yuridv&theme=midnight-purple&hide_border=true)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=yuridv&theme=midnight-purple&hide_border=true)
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=yuridv&theme=midnight-purple&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
 
 ## 📸 Redes Sociais:
