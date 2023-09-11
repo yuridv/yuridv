@@ -1,8 +1,8 @@
 ## Olá, eu sou o Yuri, Desenvolvedor Web • FullStack!
 
 <div>
-  <img height="130em" src="https://github-readme-stats.vercel.app/api?username=yuridv&theme=midnight-purple&hide_border=true&include_all_commits=true&count_private=true">
-  <img height="130em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yuridv&theme=midnight-purple&hide_border=true&include_all_commits=true&count_private=true&layout=compact">
+  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=yuridv&theme=midnight-purple&hide_border=true&include_all_commits=true&count_private=true">
+  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yuridv&theme=midnight-purple&hide_border=true&include_all_commits=true&count_private=true&layout=compact">
 </div>
 <br/>
 <div>
