@@ -18,4 +18,4 @@
 ---
 [![](https://visitcount.itsvg.in/api?id=yuridv&icon=2&color=6)](https://visitcount.itsvg.in)
 
-<!--![snake gif](https://github.com/yuridv/yuridv/blob/output/github-contribution-grid-snake.svg)-->
+![snake gif](https://github.com/yuridv/yuridv/blob/output/github-contribution-grid-snake.svg)
