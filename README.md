@@ -1,4 +1,4 @@
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&height=120&section=header&color=0:5d00ff,30:0033ff,70:0033ff,100:5d00ff"/>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&height=120&section=header&color=0:5d00ff,30:00ddff,70:00ddff,100:5d00ff"/>
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=00ddff&size=35&center=true&vCenter=true&width=1000&lines=HELLO,+My+name+is+Yuri+Eduardo;I%27m+a+web+developer+•+FullStack;I%27m+from+Brazil;I%27m+19+years+old;I+graduated%20in%20Systems%20Analysis%20and%20Development+:%29)](https://git.io/typing-svg)
 
