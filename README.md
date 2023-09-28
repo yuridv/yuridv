@@ -1,19 +1,27 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&height=120&section=header&color=0:5d00ff,30:00ddff,70:00ddff,100:5d00ff"/>
 
-<a href="https://instagram.com/yuri.develop" target="_blank"><img src="https://readme-typing-svg.herokuapp.com/?color=00ddff&size=35&center=true&vCenter=true&width=1000&lines=HELLO,+My+name+is+Yuri+Eduardo;I%27m+a+Web+Developer+•+FullStack;I%27m+from+Brazil;I%27m+19+years+old;I+graduated%20in%20Systems%20Analysis%20and%20Development+:%29"></a>
+<a href="https://instagram.com/yuri.develop" target="_blank">
+  <img src="https://readme-typing-svg.herokuapp.com/?color=00ddff&size=35&center=true&vCenter=true&width=1000&lines=HELLO,+My+name+is+Yuri+Eduardo;I%27m+a+Web+Developer+•+FullStack;I%27m+from+Brazil;I%27m+19+years+old;I+graduated%20in%20Systems%20Analysis%20and%20Development+:%29">
+</a>
 
-<a href="https://instagram.com/yuri.develop" target="_blank"><img src="https://github-readme-activity-graph.vercel.app/graph?username=yuridv&bg_color=0d1117&color=00ddff&line=00ddff&point=5d00ff&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph"></a>
+<a href="https://instagram.com/yuri.develop" target="_blank">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=yuridv&bg_color=0d1117&color=00ddff&line=00ddff&point=5d00ff&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph">
+</a>
 
 <div align="center">  
-  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=yuridv&show_icons=true&count_private=true&hide_border=true&include_all_commits=true&title_color=00ddff&icon_color=00ddff&text_color=c9d1d9&bg_color=0d1117" alt="Yuri Eduardo github stats" /> 
-  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yuridv&layout=compact&hide_border=true&title_color=00ddff&text_color=00ddff&bg_color=0d1117" />
+  <a href="https://instagram.com/yuri.develop" target="_blank">
+    <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=yuridv&show_icons=true&count_private=true&hide_border=true&include_all_commits=true&title_color=00ddff&icon_color=00ddff&text_color=c9d1d9&bg_color=0d1117" alt="Yuri Eduardo github stats" /> 
+    <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yuridv&layout=compact&hide_border=true&title_color=00ddff&text_color=00ddff&bg_color=0d1117" />
+  </a>
 </div>
 
 <div align="center"> 
-  <a href="https://instagram.com/yuri.develop" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white"</a>
-  <a href="https://www.linkedin.com/in/yuri-eduardo-40a5b0290/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" style="border-radius: 30px" target="_blank"></a> 
-  <a href="https://www.youtube.com/@yuri.developer" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
-  <a href = "mailto:cmp.1a.yuri.emailprivado@gmail.com"> <img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+  <a href="https://instagram.com/yuri.develop" target="_blank">
+    <img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white">
+    <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white">
+    <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white">
+    <img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white">
+  </a>
 </div>
 
 ## 💻 Main skills:
