@@ -1,7 +1,8 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&height=120&section=header&color=0:5d00ff,50:0033ff,100:00ddff"/>
 
-
-## Olá, eu sou o Yuri, Desenvolvedor Web • FullStack!
+[![Typing SVG](
+  https://readme-typing-svg.herokuapp.com/?color=0033ff&size=35&center=true&vCenter=true&width=1000&lines=HELLO,+My+name+is+Yuri+Eduardo;I'm+a+web+developer+•+FullStack;I'm+from+Brazil;I'm+19+years+old;I+graduated in Systems Analysis and Development
+)](https://git.io/typing-svg)
 
 <div>
   <img height="160em" src="https://github-readme-stats.vercel.app/api?username=yuridv&theme=midnight-purple&hide_border=true&include_all_commits=true&count_private=true">
