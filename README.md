@@ -25,4 +25,4 @@
 
 <!-- ![snake gif](https://github.com/yuridv/yuridv/blob/output/github-contribution-grid-snake.svg) -->
 
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=0:5d00ff,50:0033ff,100:00ddff"/>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=0:00ddff,50:0033ff,100:5d00ff"/>
