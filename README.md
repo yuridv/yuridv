@@ -5,7 +5,7 @@
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=yuridv&bg_color=0d1117&color=00ddff&line=00ddff&point=5d00ff&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 <div>
-  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=yuridv&theme=midnight-purple&hide_border=true&include_all_commits=true&count_private=true">
+  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=yuridv&show_icons=true&count_private=true&hide_border=true&title_color=00ddff&icon_color=00ddff&text_color=c9d1d9&bg_color=0d1117">
   <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yuridv&theme=midnight-purple&hide_border=true&include_all_commits=true&count_private=true&layout=compact">
 </div>
 <!--
