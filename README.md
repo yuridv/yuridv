@@ -7,7 +7,7 @@
 </a>
 
 <a href="https://instagram.com/yuri.develop" target="_blank">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=yuridv&bg_color=0d1117&color=00ddff&line=00ddff&point=5d00ff&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=yuridv&bg_color=0d1117&color=00ddff&line=00ddff&point=5d00ff&area=true&hide_border=true">
 </a>
 
 <div align="center">  
