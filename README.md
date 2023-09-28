@@ -1,8 +1,8 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&height=120&section=header&color=0:5d00ff,30:00ddff,70:00ddff,100:5d00ff"/>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=00ddff&size=35&center=true&vCenter=true&width=1000&lines=HELLO,+My+name+is+Yuri+Eduardo;I%27m+a+Web+Developer+•+FullStack;I%27m+from+Brazil;I%27m+19+years+old;I+graduated%20in%20Systems%20Analysis%20and%20Development+:%29)](https://git.io/typing-svg)
+<img src="https://readme-typing-svg.herokuapp.com/?color=00ddff&size=35&center=true&vCenter=true&width=1000&lines=HELLO,+My+name+is+Yuri+Eduardo;I%27m+a+Web+Developer+•+FullStack;I%27m+from+Brazil;I%27m+19+years+old;I+graduated%20in%20Systems%20Analysis%20and%20Development+:%29">
 
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=yuridv&bg_color=0d1117&color=00ddff&line=00ddff&point=5d00ff&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=yuridv&bg_color=0d1117&color=00ddff&line=00ddff&point=5d00ff&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph">
 
 <div align="center">  
   <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=yuridv&show_icons=true&count_private=true&hide_border=true&include_all_commits=true&title_color=00ddff&icon_color=00ddff&text_color=c9d1d9&bg_color=0d1117" alt="Yuri Eduardo github stats" /> 
