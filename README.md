@@ -24,3 +24,5 @@
 [![](https://visitcount.itsvg.in/api?id=yuridv&icon=2&color=6)](https://visitcount.itsvg.in)
 
 <!-- ![snake gif](https://github.com/yuridv/yuridv/blob/output/github-contribution-grid-snake.svg) -->
+
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=120&section=footer"/>
