@@ -1,6 +1,6 @@
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&height=120&section=header&color=0:00ddff,30:0033ff,70:0033ff,100:00ddff"/>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&height=120&section=header&color=0:5d00ff,20:0033ff,80:0033ff,100:00ddff"/>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=00ddff&size=35&center=true&vCenter=true&width=1000&lines=HELLO,+My+name+is+Yuri+Eduardo;I%27m+a+web+developer+•+FullStack;I%27m+from+Brazil;I%27m+19+years+old;I+graduated%20in%20Systems%20Analysis%20and%20Development+:%29)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=0033ff&size=35&center=true&vCenter=true&width=1000&lines=HELLO,+My+name+is+Yuri+Eduardo;I%27m+a+web+developer+•+FullStack;I%27m+from+Brazil;I%27m+19+years+old;I+graduated%20in%20Systems%20Analysis%20and%20Development+:%29)](https://git.io/typing-svg)
 
 <div>
   <img height="160em" src="https://github-readme-stats.vercel.app/api?username=yuridv&theme=midnight-purple&hide_border=true&include_all_commits=true&count_private=true">
