@@ -58,10 +58,10 @@
 ---
 <div align="center"> 
   <a href="https://instagram.com/yuri.develop" target="_blank">
-    <img src="https://visitcount.itsvg.in/api?id=yuridv&label=Visitors%20Count&color=0&pretty=true">
+    <img src="https://visitcount.itsvg.in/api?id=yuridv&label=Profile%20Views&color=0&pretty=true">
   </a>
 </div>
 
 <a href="https://instagram.com/yuri.develop" target="_blank">
-  <img width=100% src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=0:5d00ff,30:00ddff,70:00ddff,100:5d00ff"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=0:5d00ff,30:00ddff,70:00ddff,100:5d00ff"/>
 </a>
