@@ -58,7 +58,7 @@
 ---
 <div align="center"> 
   <a href="https://instagram.com/yuri.develop" target="_blank">
-    <img src="https://visitcount.itsvg.in/api?id=yuridv&label=Profile%20Views&color=0&pretty=true">
+    <img src="https://visitcount.itsvg.in/api?id=yuridv&label=Profile%20Views&color=0&pretty=true" />
   </a>
 </div>
 
